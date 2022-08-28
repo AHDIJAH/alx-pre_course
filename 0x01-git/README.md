@@ -1,1 +1,1 @@
-example
+js/index.js
